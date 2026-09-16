@@ -1,4 +1,4 @@
-const API_URL = "http://192.168.1.2:5000/api";
+const API_URL = "https://suraj-fmcg.onrender.com/api";
 
 export default API_URL;
 
